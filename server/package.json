@@ -11,5 +11,8 @@
   "devDependencies": {
     "concurrently": "^8.2.2",
      "morgan": "^1.10.0"
+  },
+   "dependencies": {
+    "dotenv": "^17.4.2"
   }
 }
